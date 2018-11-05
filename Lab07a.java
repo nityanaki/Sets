@@ -2,7 +2,7 @@
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  - Lab07a: This lab goes with the UniquesDupes Java file. It creates a set of unique elements and a set of duplicated elements from a given String. 
 
 import static java.lang.System.*;
 import java.util.*;
