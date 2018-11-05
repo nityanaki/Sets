@@ -1,8 +1,8 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  - Lab07c
 
 import java.util.Set;
 import java.util.TreeSet;
