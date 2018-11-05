@@ -1,8 +1,8 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  - Lab07b: This lab goes with the OddEvenSets Java file. It creates a set of odd numbers and a set of even numbers from a given String.
 
 import java.io.File;
 import java.io.IOException;
