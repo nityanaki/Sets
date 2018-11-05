@@ -1,8 +1,8 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
-//Lab  -
+//Lab  - Lab07c: This goes with the MathSet Java file. It finds the union, intersection, and differences between sets of numbers.
 
 import java.io.File;
 import java.io.IOException;
